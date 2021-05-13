@@ -1,0 +1,20 @@
+{
+
+  "userID":1,
+  "userName":"subodh bopche",
+  "skillDTOList":[
+    {
+      "skillID":1,
+      "skill":"java"
+
+    },
+    {
+      "skillID":2,
+      "skill":"spring"
+
+    }
+
+  ]
+}
+
+
